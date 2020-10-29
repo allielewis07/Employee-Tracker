@@ -11,15 +11,11 @@ the following database schema contains three tables:
   * Update employee roles
 
 
-## Bonus ADD ON:
-
   * Updates employee managers
 
   * Views employees by manager
 
   * Delete departments, roles, and employees
-
-
 
 
 * The command-line application should allow users to:
@@ -29,8 +25,6 @@ the following database schema contains three tables:
   * View departments, roles, employees
 
   * Update employee roles
-
-## Bonus
 
 * The command-line application should allow users to:
 
