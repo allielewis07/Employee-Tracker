@@ -14,38 +14,38 @@ function askQuestions() {
         message: "what would you like to do?",
         type: "list",
         choices: [
-            "view all employees",
-            "view all departments",
-            "view all roles",
-            "add employee",
-            "add department",
-            "add role",
-            "update employee role",
+            "View All Employees",
+            "View All Departments",
+            "View All Roles",
+            "Add Employee",
+            "Add Department",
+            "Add Role",
+            "Update Employee Role",
             "QUIT"
         ],
         name: "choice"
     }).then(answers => {
         console.log(answers.choice);
         switch (answers.choice) {
-            case "view all employees":
+            case "View All Employees":
                 viewEmployees()
                 break;
-            case "view all departments":
+            case "View All Departments":
                 viewDepartments()
                 break;
-                case "view all roles":
+                case "View All Roles":
                 viewRole()
                 break;
-            case "add employee":
+            case "Add Employee":
                 addEmployee()
                 break;
-            case "add department":
+            case "Add Department":
                 addDepartment()
                 break;
-            case "add role":
+            case "Add Role":
                 addRole()
                 break;
-            case "update employee role":
+            case "Update Employee Role":
                 updateEmployeeRole();
                 break;
             default:
