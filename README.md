@@ -4,9 +4,9 @@
 
 This app was designed to help manage companies, employees
 ## The website was developed in:
-* node,
-* inquirer, 
-* and MySQL.
+* Node,
+* Inquirer, 
+* And MySQL.
 ## What it contains:
 the following database schema contains three tables:
  * Add departments, roles, employees
