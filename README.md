@@ -1,8 +1,8 @@
 # Employee-Tracker
 
 ## Instructions
+This app was designed to help manage companies, employees, roles , as well as their departments and IDS.
 
-This app was designed to help manage companies, employees
 ## The website was developed in:
 * Node,
 * Inquirer, 
