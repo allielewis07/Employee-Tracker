@@ -18,7 +18,7 @@ the following database schema contains three tables:
   * Delete departments, roles, and employees
 
 
-* The command-line application should allow users to:
+* The command-line application should also allow users to:
 
   * Add departments, roles, employees
 
@@ -26,7 +26,7 @@ the following database schema contains three tables:
 
   * Update employee roles
 
-* The command-line application should allow users to:
+* The command-line application should also allow users to:
 
   * Update employee managers
 
