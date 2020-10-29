@@ -45,3 +45,6 @@ the following database schema contains three tables:
 ![Image of .SQL](Assets/EmployeeSql.png)
 ![Image of MYSQL PAGE](Assets/MYSQL.png)
 ![Image of MYSQL PAGE](Assets/ViewEmployees.png)
+
+## Link to video of project:
+https://drive.google.com/file/d/1nlJ58n7W4m98vSEzzq44AoT7IxZSwNNC/view
